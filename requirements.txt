@@ -1,0 +1,34 @@
+# ============================================
+# REQUIREMENTS FOR SENTIMENT ANALYSIS PROJECT
+# Pilpres 2019 - TF-IDF + Logistic Regression
+# ============================================
+
+# Core Data Science
+numpy>=1.20.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Deep Learning (untuk IndoBERT)
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Optional - untuk model tambahan
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# Text Processing
+nltk>=3.8.0
+Sastrawi>=1.0.1
+
+# Jupyter/Notebook
+ipython>=8.0.0
+jupyter>=1.0.0
