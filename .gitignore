@@ -25,9 +25,9 @@ __pycache__/
 *~
 
 # Data files (jika terlalu besar)
-*.csv
-*.pkl
-*.joblib
+#*.csv
+#*.pkl
+#*.joblib
 !model_terbaik/*.pkl  # Kecuali model terbaik
 
 # Logs
