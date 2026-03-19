@@ -1,4 +1,4 @@
-Sentiment Analysis Project - Kelompok NaLapPro (NLP B)
+Sentiment Analysis PilPres 2019 Project - Kelompok NaLapPro (NLP B)
 
 📋 Informasi Kelompok
 
